@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @HrishiDarade
-- 👀 I’m interested in Learning about new technologies.
-- 🌱 I’m currently learning about how to build new ai tools.
-- 💞️ I’m looking to collaborate on projects that involve machine learning, web application, Open AI and many more.
-- 📫 How to reach me ...You can reach me by email at daradeh2002@gmail.com.
-- ![Snake animation](https://github.com/hrishidarade/hrishidarade/blob/main/images/snake.gif)
-
+- 👋 Hi, I’m @HrishiDarade, a software engineer and a lifelong learner.
+- 👀 I’m interested in learning about new technologies, especially in the fields of artificial intelligence, web development, and data science.
+- 🌱 I’m currently learning how to build new AI tools using OpenAI, web applications, data structure and algorithm and other Python libraries.
+- 💞️ I’m looking to collaborate on projects that involve machine learning, web application, OpenAI and many more.
+- 📫 You can reach me by email at daradeh2002@gmail.com or by LinkedIn at (https://www.linkedin.com/in/hrishikesh-darade-b04a89214/).
 
 <!---
-HrishiDarade/HrishiDarade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.![wallpaperflare com_wallpaper (7)1](https://github.com/HrishiDarade/HrishiDarade/assets/99548417/3a75fc28-54ad-478c-a833-cd57261041c5)
+HrishiDarade/HrishiDarade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.!--->
 
-You can click the Preview link to take a look at your changes.![Snake animation](https://github.com/hrishidarade/hrishidarade/blob/main/images/snake.gif)
 
---->
