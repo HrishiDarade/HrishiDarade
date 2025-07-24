@@ -4,7 +4,7 @@
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
  <p float="left">
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="90" />
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*3UD56f1LXF3Q8IrO.gif" height="90" />
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="90" />
