@@ -7,7 +7,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*3UD56f1LXF3Q8IrO.gif" height="90" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="90" />
+    <img src="https://user-images.githubusercontent.com/45304978/197178414-391a5285-2ea4-46ed-b6d9-58dfd9789fd1.gif" height="90" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
